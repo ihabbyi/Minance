@@ -1,0 +1,2 @@
+# minance
+finance mangement app
