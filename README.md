@@ -1,3 +1,3 @@
 # minance
 
-Your finance managment app
+finance mangement app
