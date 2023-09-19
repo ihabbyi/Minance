@@ -5,7 +5,7 @@ const router = express.Router();
 router.route('/').get((req, res) => {
     res.status(200).json({
         status: 'success',
-        message: 'Hello from users route',
+        message: 'hello from main route',
     });
 });
 
